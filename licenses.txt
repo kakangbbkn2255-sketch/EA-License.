@@ -1,3 +1,4 @@
+STATUS=ON
 464106148|Exness-MT5Trial17
 434412557|Exness-MT5Trial7
 153213617|HFMarketsGlobal-Live11
